@@ -8,7 +8,7 @@ This KDE Kate package adds syntax coloring for the SmallBASIC language (https://
 
 Copy the file "smallbasic.xml" into the folder:
 - "~/.local/share/org.kde.syntax-highlighting/syntax/" (Linux)
-- "%USERPROFILE%\AppData\Local\org.kde.syntax-highlighting\syntax" (Windows).
+- "%USERPROFILE%\AppData\Local\org.kde.syntax-highlighting\syntax" (Windows)
 
 Most probably this folder does not exist. Please create it. Restart Kate and chose "SmallBASIC" for highlighting.
 
