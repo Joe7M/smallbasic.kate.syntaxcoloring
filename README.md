@@ -10,4 +10,4 @@ Copy the file "smallbasic.xml" into the folder:
 - "~/.local/share/org.kde.syntax-highlighting/syntax/" (Linux)
 - "%USERPROFILE%\AppData\Local\org.kde.syntax-highlighting\syntax" (Windows)
 
-Most probably this folder does not exist. Please create it. Restart Kate and chose "SmallBASIC" for highlighting.
+Most probably this folder does not exist. Please create it. Restart Kate and choose "SmallBASIC" for highlighting.
