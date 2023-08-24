@@ -38,47 +38,47 @@
       <item>GOSUB</item>
       <item>GOTO</item>
       <item>IF</item>
-	  <item>IFF</item>
-	  <item>IMP</item>
-	  <item>IN</item>
-	  <item>INKEY</item>
-	  <item>INPUT</item>
-	  <item>LABEL</item>
-	  <item>LIKE</item>
-	  <item>LOGPRINT</item>
-	  <item>LSHIFT</item>
-	  <item>MDL</item>
-	  <item>MOD</item>
-	  <item>NAND</item>
-	  <item>NEXT</item>
-	  <item>NOR</item>
-	  <item>NOT</item>
-	  <item>ON</item>
-	  <item>OR</item>
-	  <item>PAUSE</item>
-	  <item>PRINT</item>
-	  <item>PROGLINE</item>
-	  <item>RANDOMIZE</item>
-	  <item>REPEAT</item>
-	  <item>RESTORE</item>
-	  <item>RETURN</item>
-	  <item>RSHIFT</item>
-	  <item>SELECT</item>
+      <item>IFF</item>
+      <item>IMP</item>
+      <item>IN</item>
+      <item>INKEY</item>
+      <item>INPUT</item>
+      <item>LABEL</item>
+      <item>LIKE</item>
+      <item>LOGPRINT</item>
+      <item>LSHIFT</item>
+      <item>MDL</item>
+      <item>MOD</item>
+      <item>NAND</item>
+      <item>NEXT</item>
+      <item>NOR</item>
+      <item>NOT</item>
+      <item>ON</item>
+      <item>OR</item>
+      <item>PAUSE</item>
+      <item>PRINT</item>
+      <item>PROGLINE</item>
+      <item>RANDOMIZE</item>
+      <item>REPEAT</item>
+      <item>RESTORE</item>
+      <item>RETURN</item>
+      <item>RSHIFT</item>
+      <item>SELECT</item>
       <item>STOP</item>
-	  <item>SUB</item>
-	  <item>THEN</item>
-	  <item>THROW</item>
-	  <item>TO</item>
-	  <item>TROFF</item>
-	  <item>TRON</item>
-	  <item>TRY</item>
+      <item>SUB</item>
+      <item>THEN</item>
+      <item>THROW</item>
+      <item>TO</item>
+      <item>TROFF</item>
+      <item>TRON</item>
+      <item>TRY</item>
       <item>UNTIL</item>
-	  <item>USE</item>
-	  <item>USG</item>
-	  <item>WEND</item>
-	  <item>WHILE</item>
-	  <item>XNOR</item>
-	  <item>XOR</item>
+      <item>USE</item>
+      <item>USG</item>
+      <item>WEND</item>
+      <item>WHILE</item>
+      <item>XNOR</item>
+      <item>XOR</item>
     <list name="Data Types">  
       <item>DIM</item>
       <item>LOCAL</item>
@@ -121,22 +121,22 @@
       <item>BCS</item>
       <item>BEEP</item>
       <item>BGETC</item>
-	  <item>BIN</item>
-	  <item>BLOAD</item>
+      <item>BIN</item>
+      <item>BLOAD</item>
       <item>BPUTC</item>
       <item>BSAVE</item>
-	  <item>CALL</item>
+      <item>CALL</item>
       <item>CAT</item>
       <item>CBS</item>
       <item>CEIL</item>
-	  <item>CHAIN</item>
+      <item>CHAIN</item>
       <item>CHART</item>
       <item>CHDIR</item>
       <item>CHMOD</item>
       <item>CHOP</item>
       <item>CHR</item>
       <item>CIRCLE</item>
-	  <item>CLOSE</item>
+      <item>CLOSE</item>
       <item>CLS</item>
       <item>COLOR</item>
       <item>COMMAND</item>
@@ -151,7 +151,7 @@
       <item>DATEDMY</item>
       <item>DATEFMT</item>
       <item>DEG</item>
- 	  <item>DELAY</item>
+      <item>DELAY</item>
       <item>DELETE</item>
       <item>DERIV</item>
       <item>DETERM</item>
@@ -161,7 +161,7 @@
       <item>DRAW</item>
       <item>DRAWPOLY</item>
       <item>ENCLOSE</item>
- 	  <item>ENV</item>
+      <item>ENV</item>
       <item>EOF</item>
       <item>ERASE</item>
       <item>EXEC</item>
@@ -170,15 +170,15 @@
       <item>FILES</item>
       <item>FIX</item>
       <item>FLOOR</item>
- 	  <item>FORM</item>
+      <item>FORM</item>
       <item>FORMAT</item>
       <item>FRAC</item>
       <item>FRE</item>
       <item>FREEFILE</item>
       <item>HEX</item>
-	  <item>HOME</item>
-	  <item>IMAGE</item>
-	  <item>INSERT</item>
+      <item>HOME</item>
+      <item>IMAGE</item>
+      <item>INSERT</item>
       <item>INSTR</item>
       <item>INT</item>
       <item>INTERSECT</item>
@@ -206,7 +206,7 @@
       <item>LOCATE</item>
       <item>LOCK</item>
       <item>LOF</item>
-	  <item>LOG</item>
+      <item>LOG</item>
       <item>LOG10</item>
       <item>LOWER</item>
       <item>LTRIM</item>
@@ -220,9 +220,9 @@
       <item>MIN</item>
       <item>MKDIR</item>
       <item>NOSOUND</item>
-	  <item>OCT</item>
+      <item>OCT</item>
       <item>OPEN</item>
-	  <item>PAINT</item>
+      <item>PAINT</item>
       <item>PEN</item>
       <item>PLAY</item>
       <item>PLOT</item>
@@ -250,8 +250,8 @@
       <item>ROOT</item>
       <item>ROUND</item>
       <item>RTRIM</item>
-	  <item>RUN</item>
-	  <item>SBVER</item>
+      <item>RUN</item>
+      <item>SBVER</item>
       <item>SEARCH</item>
       <item>SEC</item>
       <item>SECH</item>
@@ -260,10 +260,10 @@
       <item>SEGLEN</item>
       <item>SEGSIN</item>
       <item>SEQ</item>
- 	  <item>SETP</item>
-	  <item>SGN</item>
-	  <item>SHOWPAGE</item>
-	  <item>SIN</item>
+      <item>SETP</item>
+      <item>SGN</item>
+      <item>SHOWPAGE</item>
+      <item>SIN</item>
       <item>SINH</item>
       <item>SINPUT</item>
       <item>SORT</item>
@@ -279,7 +279,7 @@
       <item>STATSPREADP</item>
       <item>STATSPREADS</item>
       <item>STATSTD</item>
-	  <item>STKDUMP</item>	  
+      <item>STKDUMP</item>    
       <item>STR</item>
       <item>STRING</item>
       <item>SUM</item>
@@ -290,26 +290,26 @@
       <item>TANH</item>
       <item>TEXTHEIGHT</item>
       <item>TEXTWIDTH</item>
-	  <item>TICKS</item>
-	  <item>TIME</item>
-	  <item>TIMEHMS</item>
-	  <item>TIMER</item>
-	  <item>TLOAD</item>
-	  <item>TRANSLATE</item>
-	  <item>TRIM</item>
+      <item>TICKS</item>
+      <item>TIME</item>
+      <item>TIMEHMS</item>
+      <item>TIMER</item>
+      <item>TLOAD</item>
+      <item>TRANSLATE</item>
+      <item>TRIM</item>
       <item>TSAVE</item>
-	  <item>TXTH</item>
-	  <item>TXTW</item>
-	  <item>UBOUND</item>
-	  <item>UCASE</item>
-	  <item>UPPER</item>
-	  <item>VAL</item>
-	  <item>VIEW</item>
-	  <item>WEEKDAY</item>
-	  <item>WINDOW</item>
-	  <item>WRITE</item>
-	  <item>XPOS</item>
-	  <item>YPOS</item>    
+      <item>TXTH</item>
+      <item>TXTW</item>
+      <item>UBOUND</item>
+      <item>UCASE</item>
+      <item>UPPER</item>
+      <item>VAL</item>
+      <item>VIEW</item>
+      <item>WEEKDAY</item>
+      <item>WINDOW</item>
+      <item>WRITE</item>
+      <item>XPOS</item>
+      <item>YPOS</item>    
     </list>
 
     <contexts>
