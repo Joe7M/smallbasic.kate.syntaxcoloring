@@ -328,7 +328,7 @@
 
         <RegExpr attribute="Keyword" context="#stay" String="\b(for (input|output|append))([\s]|$)" insensitive="true" />
                 
-        <RegExpr attribute="Keyword" context="#stay" String="\b(for)([(\s)])|$)" insensitive="true" beginRegion="ForRegion"/>
+        <RegExpr attribute="Keyword" context="#stay" String="\b(for)([(\s)]|$)" insensitive="true" beginRegion="ForRegion"/>
         <RegExpr attribute="Keyword" context="#stay" String="\b(next)([\s]|$)" insensitive="true" endRegion="ForRegion"/>
 
         <RegExpr attribute="Keyword" context="#stay" String="\b(func)([.\s]|$)" insensitive="true" beginRegion="fProcedureRegion"/>
