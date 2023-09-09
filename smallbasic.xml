@@ -9,7 +9,6 @@
       <item>OPTION</item>
       <item>UNIT</item>    
     </list>
-    
     <list name="keywords">
       <item>ACCESS</item>
       <item>AND</item>
@@ -79,6 +78,7 @@
       <item>WHILE</item>
       <item>XNOR</item>
       <item>XOR</item>
+    </list>
     <list name="Data Types">  
       <item>DIM</item>
       <item>LOCAL</item>
@@ -96,7 +96,7 @@
       <item>XMAX</item>
       <item>YMAX</item>
       <item>MAXINT</item>
-    </list>        
+    </list>
     <list name="functions">
       <item>ABS</item>
       <item>ABSMAX</item>
